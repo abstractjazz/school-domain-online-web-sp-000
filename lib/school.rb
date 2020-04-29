@@ -5,6 +5,7 @@ def initialize(name)
 end
 
 def roster
+  @roster => {}
   def length
     end
 end
