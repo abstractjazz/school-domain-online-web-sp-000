@@ -7,8 +7,7 @@ def initialize(name)
 end
 
 def roster
-roster = {}
-@roster = roster
+@roster = ROSTER
   def length
     end
 end
