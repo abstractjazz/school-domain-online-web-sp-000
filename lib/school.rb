@@ -7,7 +7,6 @@ end
 def roster
   def length
     end
-
 end
 
 
