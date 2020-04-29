@@ -4,6 +4,10 @@ def initialize(name)
 @name = name
 
 def roster
-    end
+end
+
+def length
+
   end
+
 end
