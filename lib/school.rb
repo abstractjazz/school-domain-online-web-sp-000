@@ -9,6 +9,6 @@ def initialize(name)
 end
 
 def add_student(name, grade)
-  @roster[:student] = [name, grade]
+  @roster[:10] = [name, grade]
   end
 end
