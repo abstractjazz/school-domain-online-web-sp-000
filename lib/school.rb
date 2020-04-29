@@ -1,7 +1,10 @@
 class School
 
-def initialize(name,roster)
+def initialize(name)
 @name = name
+
+def roster(roster)
 @roster = roster
+    end
   end
 end
