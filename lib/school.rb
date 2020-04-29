@@ -8,7 +8,6 @@ def roster
   @roster = {}
   def length
     end
-    @roster.length 
 end
 
 
