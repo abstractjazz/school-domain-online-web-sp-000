@@ -9,6 +9,5 @@ def initialize(name)
 end
 
 def add_student
-@roster << student
   end
-end 
+end
