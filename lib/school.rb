@@ -7,7 +7,7 @@ def initialize(name)
 end
 
 def roster
-@roster = {}
+@roster = hash.new
 
   def length
 
