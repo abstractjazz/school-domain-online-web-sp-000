@@ -15,5 +15,4 @@ def roster
     end
 end
 
-binding.pry
 end
