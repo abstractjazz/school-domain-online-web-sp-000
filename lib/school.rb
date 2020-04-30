@@ -19,7 +19,13 @@ roster[grade] = [name]
 
 def grade(grade)
 
-student.each do |roster, grade|
 roster[grade]
+
     end
+  end
+
+def sort
+  sorted_students = {}
+  roster.each do |grade, name|
+
   end
