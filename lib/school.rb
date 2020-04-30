@@ -25,7 +25,6 @@ roster[grade]
   end
 
 def sort
-  sorted_students={}
   roster.each do |grade, name|
   name.sort!
   end
