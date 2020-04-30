@@ -17,7 +17,9 @@ roster[grade] = [name]
   end
 
 
-def grade
-roster[:grade][name]
+def grade(student)
+
+student.each do |roster, grade|
+
   end
 end
