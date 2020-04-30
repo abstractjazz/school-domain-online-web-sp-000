@@ -20,6 +20,6 @@ roster[grade] = [name]
 def grade(student)
 
 student.each do |roster, grade|
-
+roster, grade
     end
-  end 
+  end
