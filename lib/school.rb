@@ -17,10 +17,9 @@ roster[grade] = [name]
   end
 
 
-def grade(student)
+def grade(grade)
 
 student.each do |roster, grade|
-roster
-grade
+roster[grade]
     end
   end
