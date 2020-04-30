@@ -9,6 +9,7 @@ def initialize(name)
 end
 
 def add_student(name, grade)
-  @roster[grade] = [name].pop
+  @roster[grade] = [name]
+
   end
 end
