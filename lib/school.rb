@@ -22,4 +22,3 @@ def grade(student)
 student.each do |roster, grade|
 
     end
-  end
